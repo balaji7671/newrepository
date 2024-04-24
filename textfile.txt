@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this file is form the main
-=======
-this file is form the main1 branch
->>>>>>> main1
